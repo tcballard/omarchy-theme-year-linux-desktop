@@ -14,6 +14,6 @@ Tux is the Linux mascot originally created by Larry Ewing. These are generated i
 
 Originals are retained separately from the package. All five files preserve the original pixels, are 1586 × 992 and contain no embedded metadata. Higher-resolution displays scale them; do not describe these as native 3K or 4K assets.
 
-This theme was prepared for Tom's desktop and uploaded to his repository at his request. No public redistribution licence has been chosen for the theme or artwork. Choose and record redistribution terms before a public release or registry submission. The starter scaffolding came from Build Omarchy Themes (MIT); the final palette was authored for this theme.
+This theme was prepared for Tom's desktop and uploaded to his repository at his request. The theme and included artwork are distributed under the [MIT License](LICENSE), to the extent of the author's rights. Existing mascot and branding attribution above remains applicable. The starter scaffolding came from Build Omarchy Themes (MIT); the final palette was authored for this theme.
 
 The centred artwork was edited with the same image-generation tool at Tom’s request to deepen its background to oxblood. The original bright-red source is retained outside the repository. The off-centre artwork is unchanged and remains the default.
