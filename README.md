@@ -63,4 +63,4 @@ The local installer copies Git provenance with the theme, records the previous t
 
 ## Credits and release status
 
-[Artwork provenance and mascot attribution](CREDITS.md). A real desktop preview, live XPS verification and redistribution licence remain release preparation tasks. The images above are wallpapers, not fabricated desktop screenshots. This is an independent community theme.
+[Artwork provenance and mascot attribution](CREDITS.md). Licensed under the [MIT License](LICENSE). A real desktop preview and live XPS verification remain release preparation tasks. The images above are wallpapers, not fabricated desktop screenshots. This is an independent community theme.
