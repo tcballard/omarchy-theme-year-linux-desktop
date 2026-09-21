@@ -17,3 +17,7 @@ Originals are retained separately from the package. All five files preserve the 
 This theme was prepared for Tom's desktop and uploaded to his repository at his request. The theme and included artwork are distributed under the [MIT License](LICENSE), to the extent of the author's rights. Existing mascot and branding attribution above remains applicable. The starter scaffolding came from Build Omarchy Themes (MIT); the final palette was authored for this theme.
 
 The centred artwork was edited with the same image-generation tool at Tom’s request to deepen its background to oxblood. The original bright-red source is retained outside the repository. The off-centre artwork is unchanged and remains the default.
+
+## Desktop preview
+
+`preview.png` is an AI-assisted composite of five desktop screenshots supplied by Tom Ballard on 21 September 2026, arranged on black. Small UI and artwork details may differ from the source captures. Original wallpaper files are unchanged.

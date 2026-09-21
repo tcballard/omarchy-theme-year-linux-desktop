@@ -1,6 +1,6 @@
 # Validation — 20 September 2026
 
-Status: **0.1.0 candidate ready for local desktop testing**. No live XPS or Quattro session was available. This is not registry acceptance or accessibility certification.
+Update — 21 September 2026: Tom supplied five screenshots of the theme running on his Dell XPS, covering all five wallpapers. The composite is now the repository preview. The portable checks below were recorded on 20 September; the remaining checklist is not a claim that every item was exercised on the XPS.
 
 ## PASS — portable checks
 
@@ -50,8 +50,8 @@ Ratios use opaque sRGB colours; actual alpha states, text sizes and display cond
 - Terminal/editor/GTK runtime and installed app versions.
 - Full theme switching and restoration, repeated switching, app reloads and shell restart/login.
 - Git-installed theme staging and native installation on the target machine.
-- Current registry validator, name collision/reservation check and a genuine desktop preview.
-- Public redistribution licensing decision and release/registry submission. Repository upload does not imply a licence grant.
+- Registry validation and listing status are tracked through the submission.
+- Release/registry submission. MIT licensing is recorded in LICENSE and CREDITS.md.
 
 ## Upstream evidence
 

@@ -6,7 +6,9 @@
 
 A Chinese zodiac-inspired dark theme for Omarchy Quattro, with Tux at the centre of the celebration. Warm ink, deep oxblood and antique gold give the desktop its character, with parchment-coloured text to keep things readable.
 
-![Ink & Gold, the default wallpaper](backgrounds/01-ink-and-gold.png)
+Captured on my Dell XPS running Omarchy. The preview brings together all five desktop screenshots.
+
+![Year of the Linux Desktop on a Dell XPS, showing five wallpaper variants](preview.png)
 
 ## Try it
 
@@ -34,7 +36,7 @@ The same dark palette runs through all five: gold window borders, parchment text
 
 Found something hard to read or out of place? [Open an issue](https://github.com/tcballard/omarchy-theme-year-linux-desktop/issues) with a screenshot.
 
-For the details, see the [design notes](DESIGN.md) and [validation record](VALIDATION.md). The images here show the wallpaper artwork.
+For the details, see the [design notes](DESIGN.md) and [validation record](VALIDATION.md).
 
 ## Credits and licence
 
