@@ -1,6 +1,6 @@
 # Theme-store publication
 
-Submitted 21 September 2026: [Theme Registry issue #46](https://github.com/omacom/omarchy-theme-registry/issues/46). Automated review is pending; the theme is not yet marketplace-listed.
+Submitted 21 September 2026: [Theme Registry issue #46](https://github.com/omacom/omarchy-theme-registry/issues/46). Automated validation passed and [registry PR #47](https://github.com/omacom/omarchy-theme-registry/pull/47) was opened. Awaiting maintainer merge and the next catalog build; the theme is not yet marketplace-listed.
 
 ## Listing
 
