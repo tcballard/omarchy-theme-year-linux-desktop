@@ -1,6 +1,6 @@
 # Theme-store publication
 
-Prepared 21 September 2026. Ready for submission; no registry issue has been opened.
+Submitted 21 September 2026: [Theme Registry issue #46](https://github.com/omacom/omarchy-theme-registry/issues/46). Automated review is pending; the theme is not yet marketplace-listed.
 
 ## Listing
 
@@ -38,4 +38,4 @@ Year of the Linux Desktop
 
 ## Publication sequence
 
-Open the form once, retain its issue URL, and check the bot report and generated pull request. The listing becomes live after a registry maintainer merges it. Update the README with the verified listing link at that point.
+Follow issue #46 for the bot report and generated pull request. The listing becomes live after a registry maintainer merges it. Update the README with the verified listing link at that point.
